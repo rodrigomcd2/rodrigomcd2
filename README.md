@@ -1,1 +1,1 @@
-olá sou Rodrigo Oliveira
+olá sou Rodrigo Oliveira 😊
