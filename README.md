@@ -18,3 +18,13 @@ Sou uma pessoa que sabe se socializar bem. Tenho facilidade em aprender rápido,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="jupyter notebbok"
+    title="Jupyter Notebook"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+/>
+
+          
